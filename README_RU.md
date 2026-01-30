@@ -35,6 +35,7 @@
 
 ## Зависимости
 
+- [Kurigram](https://github.com/KurimuzonAkuma/kurigram) (Форк Pyrogram)
 - [Pyrogram](https://docs.pyrogram.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [spotDL](https://github.com/spotDL/spotify-downloader)
