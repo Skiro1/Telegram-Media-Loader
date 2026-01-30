@@ -22,7 +22,7 @@
    - Linux: `sudo apt install ffmpeg`
 2. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/ваш-логин/MediaDownloaderBot.git
+   git clone https://github.com/Skiro1/Telegram-Media-Loader.git
    cd MediaDownloaderBot
    ```
 3. **Установите зависимости**:
@@ -62,7 +62,7 @@ A simple and powerful Telegram bot to download video and audio from YouTube, Tik
    - Linux: `sudo apt install ffmpeg`
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-login/MediaDownloaderBot.git
+   git clone https://github.com/Skiro1/Telegram-Media-Loader.git
    cd MediaDownloaderBot
    ```
 3. **Install dependencies**:
