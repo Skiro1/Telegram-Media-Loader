@@ -30,7 +30,7 @@
    pip install -r requirements.txt
    ```
 4. **Настройте `config.py`**:
-   Укажите свои `API_ID`, `API_HASH` и `BOT_TOKEN` (получить у [@BotFather](https://t.me/BotFather)).
+   Укажите свои `API_ID`, `API_HASH` и `BOT_TOKEN` (получить у [@BotFather](https://t.me/BotFather) + https://my.telegram.org/auth).
 5. **Запустите бота**:
    ```bash
    python bot_ru.py
@@ -70,7 +70,7 @@ A simple and powerful Telegram bot to download video and audio from YouTube, Tik
    pip install -r requirements.txt
    ```
 4. **Configure `config.py`**:
-   Set your `API_ID`, `API_HASH`, and `BOT_TOKEN` (get from [@BotFather](https://t.me/BotFather)).
+   Set your `API_ID`, `API_HASH`, and `BOT_TOKEN` (get from [@BotFather](https://t.me/BotFather) + https://my.telegram.org/auth).
 5. **Run the bot**:
    ```bash
    python bot_en.py
