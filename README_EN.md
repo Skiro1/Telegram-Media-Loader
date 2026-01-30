@@ -35,6 +35,8 @@ Edit `config.py`:
 
 ## Dependencies
 
+- [Kurigram](https://github.com/KurimuzonAkuma/kurigram) (Pyrogram Fork)
 - [Pyrogram](https://docs.pyrogram.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [spotDL](https://github.com/spotDL/spotify-downloader)
+
