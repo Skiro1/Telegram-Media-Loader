@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto
+yt-dlp
+yt-dlp-ejs
+requests
+spotdl
+aiohttp
+Kurigram
