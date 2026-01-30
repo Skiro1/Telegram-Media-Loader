@@ -36,6 +36,12 @@
    python bot_ru.py
    ```
 
+### 📦 Основные зависимости
+- [Kurigram](https://github.com/Kurimuzard/Kurigram) (Форк Pyrogram)
+- [Pyrogram](https://docs.pyrogram.org/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [spotDL](https://github.com/spotDL/spotify-downloader)
+
 ---
 
 <a name="english"></a>
@@ -71,6 +77,7 @@ A simple and powerful Telegram bot to download video and audio from YouTube, Tik
    ```
 
 ### 📦 Main Dependencies
+- [Kurigram](https://github.com/Kurimuzard/Kurigram) (Pyrogram Fork)
 - [Pyrogram](https://docs.pyrogram.org/)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - [spotDL](https://github.com/spotDL/spotify-downloader)
