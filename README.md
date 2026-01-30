@@ -17,7 +17,7 @@
 - **Локализация**: полная поддержка русского и английского языков.
 
 ### 🛠 Установка
-1. **Установите FFmpeg**:
+1. **Установите FFmpeg** + [Deno](https://deno.land/) (опционально, для решения сигнатур YouTube):
    - Windows: [Скачать](https://ffmpeg.org/download.html) и добавить в PATH или положить `ffmpeg.exe` в папку с ботом.
    - Linux: `sudo apt install ffmpeg`
 2. **Клонируйте репозиторий**:
@@ -57,7 +57,7 @@ A simple and powerful Telegram bot to download video and audio from YouTube, Tik
 - **Localization**: full support for Russian and English languages.
 
 ### 🛠 Setup
-1. **Install FFmpeg**:
+1. **Install FFmpeg** + [Deno](https://deno.land/) (optional, for signature solving):
    - Windows: [Download](https://ffmpeg.org/download.html) and add to PATH or place `ffmpeg.exe` in the bot folder.
    - Linux: `sudo apt install ffmpeg`
 2. **Clone the repository**:
